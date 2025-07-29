@@ -94,3 +94,5 @@ C:\Users\visantos\OneDrive - Microsoft\Desktop\copilotdemo\obj\Debug\net9.0\refi
 C:\Users\visantos\OneDrive - Microsoft\Desktop\copilotdemo\obj\Debug\net9.0\copilotdemo.pdb
 C:\Users\visantos\OneDrive - Microsoft\Desktop\copilotdemo\obj\Debug\net9.0\copilotdemo.genruntimeconfig.cache
 C:\Users\visantos\OneDrive - Microsoft\Desktop\copilotdemo\obj\Debug\net9.0\ref\copilotdemo.dll
+C:\Users\visantos\OneDrive - Microsoft\Desktop\copilotdemo\obj\Debug\net9.0\copilotdemo.csproj.AssemblyReference.cache
+C:\Users\visantos\OneDrive - Microsoft\Desktop\copilotdemo\obj\Debug\net9.0\copilotdemo.sourcelink.json
